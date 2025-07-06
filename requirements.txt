@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+fpdf
+psycopg2-binary
+streamlit
+openai
+python-dotenv
